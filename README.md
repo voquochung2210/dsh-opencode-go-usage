@@ -4,6 +4,17 @@ OpenCode Go plan usage and spend in the DeepSeek Harness Web UI right sidebar.
 
 ![The panel in the right sidebar](docs/panel.png)
 
+## Install
+
+Add the bundle to a DSH profile with the spec:
+
+```
+github:voquochung2210/dsh-opencode-go-usage
+```
+
+or install the tarball from [Releases](https://github.com/voquochung2210/dsh-opencode-go-usage/releases).
+Installing enables the bundle, so the tab appears on the next page load.
+
 ## What the tab shows
 
 Under the panel subtitle sits the **subscription line**: a clock and the time
