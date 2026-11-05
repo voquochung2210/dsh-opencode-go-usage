@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go Usage",
+    "description": "OpenCode Go plan usage and spend in the right sidebar: rolling 5 hours, week, month, plus cost, requests, tokens, a chart, and usage by model for a chosen time range."
+  }
+}

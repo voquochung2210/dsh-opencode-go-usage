@@ -1,0 +1,4 @@
+# Adds the OpenCode Go usage tab to the Web UI right sidebar.
+- insert:
+    - id: opencode-go-usage
+      name: dsh-opencode-go-usage

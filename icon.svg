@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="OpenCode Go usage">
+  <title>OpenCode Go usage</title>
+  <defs>
+    <linearGradient id="ogp-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f6df6"/>
+      <stop offset="0.55" stop-color="#4f8bff"/>
+      <stop offset="1" stop-color="#19c2a6"/>
+    </linearGradient>
+    <linearGradient id="ogp-arc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fe3ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="url(#ogp-bg)"/>
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M32 88a32 32 0 0 1 64 0" fill="none" stroke="#0b2a5b" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M32 88a32 32 0 0 1 64 0" fill="none" stroke="url(#ogp-arc)" stroke-width="10" stroke-linecap="round" stroke-dasharray="64 200"/>
+  <path d="M64 88 84 66" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="64" cy="88" r="7.5" fill="#ffffff"/>
+  <circle cx="64" cy="88" r="3" fill="#2f6df6"/>
+</svg>
